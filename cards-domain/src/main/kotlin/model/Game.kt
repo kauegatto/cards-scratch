@@ -1,5 +1,6 @@
 package model
 
+import Room
 import model.cards.AnswerCard
 
 data class Game(
